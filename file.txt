@@ -1,0 +1,7 @@
+sanika bachewar
+aws services
+ec2
+vpc
+ebs
+s3
+
